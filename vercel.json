@@ -1,0 +1,5 @@
+{
+  "installCommand": "npx pnpm@latest install",
+  "buildCommand": "npx pnpm@latest run build",
+  "framework": "nextjs"
+}
