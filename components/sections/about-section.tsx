@@ -5,9 +5,9 @@ import { useInView } from 'framer-motion'
 import { useRef } from 'react'
 
 const stats = [
-  { label: 'Projects Completed', value: '5+' },
+  { label: 'Projects Completed', value: '3+' },
   { label: 'Technologies', value: '10+' },
-  { label: 'Certifications', value: '3+' },
+  { label: 'Certifications', value: '5+' },
 ]
 
 export default function AboutSection() {
@@ -89,7 +89,7 @@ export default function AboutSection() {
                   Who I Am
                 </h4>
                 <p className="text-muted-foreground leading-relaxed">
-                  I&apos;m a passionate developer and Machine Learning enthusiast currently pursuing my B.Tech in Computer Science and Business Systems at Vels Institute of Science, Technology &amp; Advanced Studies (VISTAS), Chennai, India with a GPA of 8.7. I thrive at the intersection of software development and data science, creating intelligent solutions that make a real impact.
+                  I&apos;m a passionate developer and Machine Learning enthusiast currently pursuing my B.Tech in Computer Science and Business Systems at Vels Institute of Science, Technology &amp; Advanced Studies (VISTAS), Chennai, India with a CGPA of 8.7. I thrive at the intersection of software development and data science, creating intelligent solutions that make a real impact.
                 </p>
               </div>
 
