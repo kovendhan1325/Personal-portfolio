@@ -128,8 +128,9 @@ export default function HeroSection() {
             </button>
             
             <a
-              href="/kovendhan-resume.pdf"
-              download="Kovendhan_Resume.pdf"
+              href="/kovendhan-resume.html"
+              target="_blank"
+              rel="noopener noreferrer"
               className="group px-8 py-4 border-2 border-primary text-primary font-semibold rounded-lg transition-all duration-300 hover:bg-primary/10 hover:scale-105"
             >
               <span className="flex items-center gap-2">
